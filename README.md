@@ -44,8 +44,6 @@ targeting laptops.
 
 
 
-![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss1.jpg?raw=true)
-
 ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss1b.png?raw=true)
 
 ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2.jpg?raw=true)
