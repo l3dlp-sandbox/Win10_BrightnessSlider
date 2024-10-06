@@ -2,7 +2,7 @@
 this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it with 1 click.
 targeting laptops. 
 
-* **supported os**:  win7 , win8 , win10 , win11
+* **supported os**:  win7 , win8 , win10 , win11 
  
 
 * **requirements**: 
