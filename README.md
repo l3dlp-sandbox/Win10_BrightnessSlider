@@ -1,7 +1,7 @@
 
 
 # Win10_BrightnessSlider
-this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it with 1 click.
+this app puts a Monitor Brightness icon into Taskbar Tray. So you can access it with 1 click.
 targeting laptops. 
 
 * **supported os**:  win7 , win8 , win10 , win11 
