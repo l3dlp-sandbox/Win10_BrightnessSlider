@@ -1,16 +1,18 @@
+
+
 # Win10_BrightnessSlider
 this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it with 1 click.
 targeting laptops. 
 
 * **supported os**:  win7 , win8 , win10 , win11 
  
-
 * **requirements**: 
-  * .net4.6.2 framework.  (win7 may need to install)
+  * .net4.7.2 framework.  (win7 may need to install)
   * for ddci monitors, ([make sure  ddci is enabled on monitor menu](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/enable%20ddc-ci.jpg?raw=true)
 )
   *  make sure you do install/update your graphic driver 
-  
+
+
 * **Note For VirusAlert, Source Code**: 
    * dont open issues about virus total trojan alert etc. if you dont trust dont use it.   
 
@@ -42,6 +44,7 @@ targeting laptops.
 
 #### ScreenShots
 
+![text](https://github.com/user-attachments/assets/33542141-cee2-4f84-b4ab-0a4638c7fa82)
 
 
 ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss1b.png?raw=true)
