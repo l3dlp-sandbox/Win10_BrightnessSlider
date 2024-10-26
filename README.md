@@ -24,7 +24,7 @@ targeting laptops.
 
 --------------------
 
-**Download Link**   [All Versions](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  -  [**ChangeLog**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  
+   [**Download Link**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  -  [**ChangeLog**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  
 
 
 #### Features
