@@ -13,12 +13,6 @@ targeting laptops.
   * install/update your graphic driver 
 
 
-* **Note For VirusAlert, Source Code**: 
-   * dont open issues about virus total trojan alert etc. if you dont trust dont use it.   
-
-   * code version is  first working version (maybe 1.01). but **executable is always up to date**
-   * old code published here is free to play.
-   * uptodate code is my private intellectual property. coding effort made without any money, wont be put here.
 
 -------------------
 * **DONATE**: 
@@ -53,6 +47,13 @@ targeting laptops.
 #### NOTES   
 * if slider working. but suddenly (you plug/unplug monitor/MirrorScreen in any way) then screen act up weird for second.
  you CAN get error while trying to change birghtness, you gotta press "Detect monitor".  
+
+**Note For VirusAlert, Source Code**: 
+   * dont open issues about virus total trojan alert etc. if you dont trust dont use it.   
+
+   * code version is  first working version (maybe 1.01). but **executable is always up to date**
+   * old code published here is free to play.
+   * uptodate code is my private intellectual property. coding effort made without any money, wont be put here.
 
 
 #### ChangeLog 
