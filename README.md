@@ -16,7 +16,7 @@ targeting laptops.
 
 
 -------------------
-**DONATE:** -  bitcoin: 1A2CcDwWJ9MLuZaGUy5izNTZdWVnrQ9hWh
+**DONATE** -  **via bitcoin:** 1A2CcDwWJ9MLuZaGUy5izNTZdWVnrQ9hWh
 
    bitcoin QR Code: 
 
