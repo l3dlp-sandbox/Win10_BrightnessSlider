@@ -13,7 +13,6 @@ targeting laptops.
   * install/update your graphic driver 
 
 
-
 -------------------
 * **DONATE**: 
 
@@ -25,7 +24,7 @@ targeting laptops.
 
 --------------------
 
-**Download Link**   [All Versions](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)
+**Download Link**   [All Versions](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  -  [**ChangeLog**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  
 
 
 #### Features
@@ -54,10 +53,6 @@ targeting laptops.
    * code version is  first working version (maybe 1.01). but **executable is always up to date**
    * old code published here is free to play.
    * uptodate code is my private intellectual property. coding effort made without any money, wont be put here.
-
-
-#### ChangeLog 
-at [release page](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  
 
 
 
