@@ -4,7 +4,9 @@
 this app puts a Monitor Brightness icon into Taskbar Tray. So you can access it with 1 click.
 targeting laptops. 
 
-* **supported os**:  win7 , win8 , win10 , win11 
+
+
+* **supported os**:  win7 , win8 , win10 , win11  - [**Download Link**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  -  [**ChangeLog**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  
  
 * **requirements**: 
   * .net4.7.2 framework.  (win7 may need to install)
@@ -14,9 +16,7 @@ targeting laptops.
 
 
 -------------------
-* **DONATE**: 
-
-   bitcoin: 1A2CcDwWJ9MLuZaGUy5izNTZdWVnrQ9hWh
+**DONATE**: bitcoin: 1A2CcDwWJ9MLuZaGUy5izNTZdWVnrQ9hWh
 
    bitcoin QR Code: 
 
@@ -24,7 +24,6 @@ targeting laptops.
 
 --------------------
 
-   [**Download Link**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  -  [**ChangeLog**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  
 
 
 #### Features
