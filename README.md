@@ -36,10 +36,10 @@ targeting laptops.
 
 #### ScreenShots
 
-|**-**|**-**|**-**|
-|:---:|:---:|:---:|
-| win11 | ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2_win11.png?raw=true) |  ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2_win11_li.png?raw=true)  |
-| win10 | ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss1b.png?raw=true)| ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2.jpg?raw=true) |
+|**-**|**-**|**-**|**-**|
+|:---:|:---:|:---:|:---:|
+| win11 | ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2_win11.png?raw=true) |  ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2_win11_li.png?raw=true)  |   ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss-wifi.jpg?raw=true)  |
+| win10 | ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss1b.png?raw=true)| ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2.jpg?raw=true) |  Not needed Here - win10 Already Have Split wifi icon |
 
 
 #### NOTES   
