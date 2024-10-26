@@ -10,7 +10,7 @@ targeting laptops.
  
 * **requirements**: 
   * [.Net Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-offline-installer) (win7 may need to install)
-  * for ddci monitors, ([enable ddci on monitor menu](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/enable%20ddc-ci.jpg?raw=true)
+  * for ddci monitors, ([enable ddci on monitor menu](enable%20ddc-ci.jpg?raw=true)
 )
   * install/update your graphic driver 
 
@@ -20,7 +20,7 @@ targeting laptops.
 
    bitcoin QR Code: 
 
-   ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/send_bitcoinQR.png?raw=true)
+   ![alt text](send_bitcoinQR.png?raw=true)
 
 --------------------
 
@@ -38,8 +38,8 @@ targeting laptops.
 
 |**.**|**.**|**.**| 
 |:---:|:---:|:---:| 
-| win11 | ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2_win11.png?raw=true)   ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2_win11_li.png?raw=true)  |   ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss-wifi.jpg?raw=true)  |
-| win10 | ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss1b.png?raw=true)| ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2.jpg?raw=true) |   
+| win11 | ![alt text](ss/ss2_win11.png?raw=true)   ![alt text](ss/ss2_win11_li.png?raw=true)  |   ![alt text](ss/ss-wifi.jpg?raw=true)  |
+| win10 | ![alt text](ss/ss1b.png?raw=true)| ![alt text](/ss/ss2.jpg?raw=true) |   
 
 
 #### NOTES   
