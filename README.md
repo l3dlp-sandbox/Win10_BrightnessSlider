@@ -44,10 +44,10 @@ targeting laptops.
 
 #### ScreenShots
 
-|**-**|**-**|
-|:---:|:---:|
-| ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2_win11.png?raw=true) |  ![text](https://github.com/user-attachments/assets/33542141-cee2-4f84-b4ab-0a4638c7fa82)  |
-| ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss1b.png?raw=true)| ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2.jpg?raw=true) |
+|**-**|**-**|**-**|
+|:---:|:---:|:---:|
+| win11 | ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2_win11.png?raw=true) |  ![text](https://github.com/user-attachments/assets/33542141-cee2-4f84-b4ab-0a4638c7fa82)  |
+| win10 | ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss1b.png?raw=true)| ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/ss2.jpg?raw=true) |
 
 
 #### NOTES   
