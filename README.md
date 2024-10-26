@@ -6,7 +6,7 @@ targeting laptops.
 
 
 
-* **supported os**:  win7 , win8 , win10 , win11  - [**Download Link**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  -  [**ChangeLog**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  
+* **supported os**:  win7 , win8 , win10 , win11  - [**Download**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  -  [**ChangeLog**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  
  
 * **requirements**: 
   * [.Net Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-offline-installer) (win7 may need to install)
@@ -46,7 +46,7 @@ targeting laptops.
 * if slider working. but suddenly (you plug/unplug monitor/MirrorScreen in any way) then screen act up weird for second.
  you CAN get error while trying to change birghtness, you gotta press "Detect monitor".  
 
-**Note For VirusAlert, Source Code**: 
+#### **About VirusAlert, Source Code**: 
    * dont open issues about virus total trojan alert etc. if you dont trust dont use it.   
 
    * code version is  first working version (maybe 1.01). but **executable is always up to date**
