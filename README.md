@@ -9,8 +9,8 @@ targeting laptops.
 * **supported os**:  win7 , win8 , win10 , win11  - [**Download Link**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  -  [**ChangeLog**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  
  
 * **requirements**: 
-  * .net4.7.2 framework.  (win7 may need to install)
-  * for ddci monitors, ([make sure  ddci is enabled on monitor menu](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/enable%20ddc-ci.jpg?raw=true)
+  * [.Net Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-offline-installer) (win7 may need to install)
+  * for ddci monitors, ([enable ddci on monitor menu](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/enable%20ddc-ci.jpg?raw=true)
 )
   * install/update your graphic driver 
 
