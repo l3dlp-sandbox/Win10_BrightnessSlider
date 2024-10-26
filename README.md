@@ -10,7 +10,7 @@ targeting laptops.
   * .net4.7.2 framework.  (win7 may need to install)
   * for ddci monitors, ([make sure  ddci is enabled on monitor menu](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/enable%20ddc-ci.jpg?raw=true)
 )
-  *  make sure you do install/update your graphic driver 
+  * install/update your graphic driver 
 
 
 * **Note For VirusAlert, Source Code**: 
