@@ -4,7 +4,7 @@
 this app puts a Monitor Brightness icon into Taskbar Tray. So you can access it with 1 click.
 targeting laptops. 
 
-
+[![Downloads](https://img.shields.io/github/downloads/blackholeearth/Win10_BrightnessSlider/total.svg)](https://github.com/blackholeearth/Win10_BrightnessSlider/releases/latest)
 
 * **supported os**:  win7 , win8 , win10 , win11  - [**Download**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  -  [**ChangeLog**](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  
  
