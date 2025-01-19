@@ -43,8 +43,7 @@ targeting laptops.
 |**.**|**.**|**.**| 
 |:---:|:---:|:---:| 
 | win11 | ![alt text](ss/ss2_win11.png?raw=true)   ![alt text](ss/ss2_win11_li.png?raw=true)  |   ![alt text](ss/ss-wifi.jpg?raw=true)  |
-| win10 / 11 |  <img width="450" src="ss/ss2_win11_customTheme.png?raw=true" > |   ---  |
-
+| win  |  <img width="450" src="ss/ss2_win11_customTheme.png?raw=true" > |   win10 /11 custom Theme   |
 | win10 | ![alt text](ss/ss1b.png?raw=true)| ![alt text](/ss/ss2.jpg?raw=true) |   
 
 
