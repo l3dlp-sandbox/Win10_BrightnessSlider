@@ -26,7 +26,7 @@ targeting laptops.
 
 --------------------
 
-#### Start Velocity
+#### Star Velocity
  [![Sparkline](https://stars.medv.io/blackholeearth/Win10_BrightnessSlider.svg)](https://stars.medv.io/blackholeearth/Win10_BrightnessSlider)
 
 
