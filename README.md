@@ -48,17 +48,26 @@ targeting laptops.
 
 
 #### NOTES   
-* if slider working. but suddenly (you plug/unplug monitor/MirrorScreen in any way) then screen act up weird for second.
+* if slider was working. but suddenly (you plug/unplug monitor/MirrorScreen in any way) then screen act up weird for second.
  you CAN get error while trying to change birghtness, you gotta press "Detect monitor".  
 
-#### **About VirusAlert, Source Code**: 
-   * dont open issues about virus total trojan alert etc. if you dont trust dont use it.   
+#### **About VirusAlert**: 
+   * you can submit *slider.exe* to microsoft yourself. please be proactive.. guys..
+     * https://www.microsoft.com/en-us/wdsi/filesubmission
 
-   * code version is  first working version (maybe 1.01). but **executable is always up to date**
-   * old code published here is free to play.
-   * uptodate code is my private intellectual property. coding effort made without any money, wont be put here.
+#### **About Source Code**: 
+   * code version is 1.8.24  right now. 
+      * *i will update source code to latest release when i go to 2nd location.*
 
+#### **License**: 
+   * you can only use my source code in open Source project.
+     * you have to add this repo/name  in readme or about me section in your Project. 
+   * you are NOT permitted to use this code in  closed source project.  
 
+#### **Pull Request**: 
+   * PR's are welcome, 
+   * try to make changes as minimal as possible. 
+   * if you add too much code, refactor your functions into another class. use it from there.
 
 
 
