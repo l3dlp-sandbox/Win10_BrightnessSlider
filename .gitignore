@@ -243,3 +243,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+Win10_BrightnessSlider/Costura32/uiohook.dll
+Win10_BrightnessSlider/Costura64/uiohook.dll
