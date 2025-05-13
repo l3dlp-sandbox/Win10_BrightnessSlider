@@ -77,12 +77,19 @@ namespace Win10_BrightnessSlider
         }
 
 
-		/*
+        /*
+        v1.8.27 still dev  
+        * win+space > everthing ,  added error message.. "you need to install to default folder"
+
+
+        v1.8.26
+        * extras -> slider wButton , width is Back to Previous Size. - #185 ?
+         
+		v1.8.25
+        * at win10 - gap between contexmenu and taskbar set to 1px;
+        * Fixed: slider wButton right part is hidden/outside of screen - #182
         
-		 v1.8.25
-        * at win10 - contexmenu gapSize set to 1px;
-        
-         v1.8.24
+        v1.8.24
         * (info discovered - not enabled/ not tested ). scan only for monitor plug_in/out, Not Usb.
         * Added Proxy Detection, and Proxy Icon
         
@@ -92,7 +99,7 @@ namespace Win10_BrightnessSlider
            * migrated globalMouse to  **TolikPylypchuk/SharpHook**
        
         */
-		static string version = "1.8.25";
+        static string version = "1.8.26";
 
         /// <summary>
         /// is win11
@@ -1934,7 +1941,37 @@ echo.
                 //return;
             }
 
-            var ps = ProcessStart(@"C:\Program Files\Everything\Everything.exe");
+
+
+           
+            try
+            {
+                var ps = ProcessStart(@"C:\Program Files\Everything\Everything.exe");
+            }
+            catch (Exception ex)
+            {
+                try
+                {
+                    var ps = ProcessStart(@"D:\Downloads\programs\_Everything-1.4.1.1026.x64\everything.exe");
+                }
+                catch (Exception ex2)
+                {
+
+                    MessageBox.Show(
+$@"Error:
+
+you need to install everything to  default path: 
+C:\Program Files\Everything\Everything.exe
+
+
+Error Message: 
+
+  {ex2.Message}
+
+" );
+                }
+               
+            }
 
 
 

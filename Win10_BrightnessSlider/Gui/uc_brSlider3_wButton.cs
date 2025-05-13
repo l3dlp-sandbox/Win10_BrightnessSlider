@@ -15,7 +15,11 @@ namespace Win10_BrightnessSlider.Gui
     public partial class uc_brSlider3_wButton : UserControl , Iuc_brSlider
     {
         //interface
-        RichInfoScreen Iuc_brSlider.richInfoScreen { get => _uc_brSlider3.richInfoScreen; set => _uc_brSlider3.richInfoScreen = value; }
+        RichInfoScreen Iuc_brSlider.richInfoScreen 
+        { 
+            get => _uc_brSlider3.richInfoScreen; 
+            set => _uc_brSlider3.richInfoScreen = value;
+        }
         string Iuc_brSlider.NotifyIconText => _uc_brSlider3.NotifyIconText;
         void Iuc_brSlider.UpdateSliderControl() => _uc_brSlider3.UpdateSliderControl();
         void Iuc_brSlider.Set_MonitorName(string name) => _uc_brSlider3.Set_MonitorName(name);
@@ -146,19 +150,13 @@ namespace Win10_BrightnessSlider.Gui
 
         }
         private void uc_brSlider3_wButton_Load(object sender, EventArgs e)  {  }
-      
 
 
 
-        private void bt_decrease_Click(object sender, EventArgs e)
-        {
-            _uc_brSlider3.Slider_SetBrightness_DOWN();
-        }
-        private void bt_increase_Click(object sender, EventArgs e)
-        {
-            _uc_brSlider3.Slider_SetBrightness_UP();
-        }
 
-     
+        private void bt_decrease_Click(object sender, EventArgs e) => _uc_brSlider3.Slider_SetBrightness_DOWN();
+        private void bt_increase_Click(object sender, EventArgs e) => _uc_brSlider3.Slider_SetBrightness_UP();
+
+
     }
 }

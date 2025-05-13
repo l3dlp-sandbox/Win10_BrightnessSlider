@@ -35,6 +35,7 @@ namespace Win10_BrightnessSlider
             trackBar1.MouseUp += TrackBar1_MouseUp;
             trackBar1.MouseDown += TrackBar1_MouseDown;
 
+            
 
             lbl_value.TextChanged += Label1_TextChanged;
 
@@ -109,7 +110,7 @@ namespace Win10_BrightnessSlider
             if ( Form1.riScreens == null)
                 return;
 
-            //win11
+            //win11 - theming styling.
             if (Form1.isWindows11 ) 
             {
                 var radius = 8;
@@ -159,9 +160,8 @@ namespace Win10_BrightnessSlider
 
         private void TrackBar1_MouseWheel(object sender, MouseEventArgs e)
         {
+            trackBar1_Scroll(null, null);
             //if (e.Delta > 0)  Slider_SetBrightness_UP() else  Slider_SetBrightness_DOWN();
-
-            trackBar1_Scroll(null,null);
         }
 
         private void trackBar1_Scroll(object sender, EventArgs e)
@@ -213,7 +213,10 @@ namespace Win10_BrightnessSlider
 
         public string NotifyIconText => " " + riScreen.avail_MonitorName + " : " + lbl_value.Text + "%";
 
-        public RichInfoScreen richInfoScreen { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public RichInfoScreen richInfoScreen { 
+            get => throw new NotImplementedException(); 
+            set => throw new NotImplementedException(); 
+        }
 
         private void Label1_TextChanged(object sender, EventArgs e)
         {
@@ -229,9 +232,6 @@ namespace Win10_BrightnessSlider
                     f1?.Invoke((Action)delegate {
                         f1?.GUI_Update_NotifyIconText();
                     });
-
-                    
-                    
                     
                 }
                 catch (Exception ex)
